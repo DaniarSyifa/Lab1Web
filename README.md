@@ -9,7 +9,7 @@ Jawablah pertanyaan Berikut :
 
 Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan  tag? Tidak terjad kesalahan dan tidak error dalam penulisan tag.
 
-Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! Tag <p> untuk memberi perintah paragraf baru pada HTML , dimulai dengan tag pembuka <p> dan diakhiri tag penutup </p> 
+Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! Tag <p> untuk memberi perintah paragraf baru pada HTML , dimulai dengan tag pembuka <p> dan diakhiri tag penutup </p>. Sedangkan <br> yaitu untuk memberikan perintah "break line"  atau intruksi garis baru. 
 
 Apa perbedaan atribut tittle dan alt pada tag <img>, berikan penjelasannya! tag tittle yaitu berfungsi untuk memberikan judul pada gambar, tetapi tag judul gambar ini ditampilkan ketika menyorot gambar dengan mouse. Sedangkan alt yaitu teks alternatif yang akan muncul diwadah gambar ketika  gambar tidak dapat ditampilkan. 
 
